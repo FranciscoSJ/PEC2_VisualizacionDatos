@@ -8,3 +8,15 @@ Las tres técnicas de visualización utilizadas han sido:
 * Bee Swarm.
 
 * Isotype chart. https://infogram.com/escolarizacion-internacional-mayores-de-25-1h7j4dv15x1q94n?live
+
+
+## Software utilizado
+
+* Python (Jupyter Notebooks)
+
+* R (Rmarkdown html)
+
+* Infogram (link incluido).
+
+
+## Repositorios de datos
