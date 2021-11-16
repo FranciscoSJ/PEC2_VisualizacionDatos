@@ -1,0 +1,32 @@
+---
+title: "BeeSwarm"
+author: "Francisco Sánchez Jiménez"
+date: "16/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+covid <- read.csv("deteccion_covid.csv", header = TRUE, sep = ",")
+```
+
+```{r}
+
+covidSP <- covid[covid$countriesAndTerritories == "Spain",]
+head(covidSP)
+```
+
+```{r}
+library("beeswarm")
+
+beeswarm(covidSP$deaths / covidSP$cases ~ covidSP$month, main= "Ratio muertes/casos covid en España", ylab= "muertes/casos", xlab= "meses 2021")
+
+```
+
+```{r}
+beeswarm(covidSP$deaths / covidSP$cases, main= "Ratio muertes/casos covid en España", ylab= "muertes/casos", xlab= "Año 2021")
+```
+
