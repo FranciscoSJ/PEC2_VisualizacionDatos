@@ -3,7 +3,7 @@ Este repositorio contiene las visualizacines de las técnicas requeridas para la
 
 Las tres técnicas de visualización utilizadas han sido:
 
-* **Histograma**. Se trata de una representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados. Sirve para obtener una "primera vista" general, o panorama, de la distribución de la población, o de la muestra, respecto a una característica, cuantitativa y continua.
+* **Histograma**. Se trata de una representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados. Sirve para obtener una "primera vista" general, o panorama, de la distribución de la población, o de la muestra, respecto a una característica, **cuantitativa y continua**.
 
 * **Bee Swarm**. El gráfico Beeswarm es un gráfico unidimensional que muestra toda la información en un solo eje (normalmente el eje X). Muestra los valores como una colección de puntos similar a un gráfico de dispersión.
 
