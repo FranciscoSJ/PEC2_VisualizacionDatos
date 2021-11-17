@@ -5,7 +5,7 @@ Las tres técnicas de visualización utilizadas han sido:
 
 * Histograma.
 
-* Bee Swarm.
+* Bee Swarm. (Añadir fotos del Rmd, que no se visualizan)
 
 * Isotype chart. https://infogram.com/escolarizacion-internacional-mayores-de-25-1h7j4dv15x1q94n?live
 
